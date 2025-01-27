@@ -49,9 +49,6 @@ This project is a responsive and visually appealing website designed to showcase
 ![About Section](images/about.webp)
 *The "About" section of the website*
 
-![Team Qualities](images/team-qualities.png)
-*Team qualities displayed in a grid layout*
-
 ## 🤝 Contributing
 Contributions are always welcome! Here's how you can help:
 - Report bugs
